@@ -1,2 +1,6 @@
 # Intro_to_Python
-This is a sample repo for my Python class
+
+
+Hello World!
+
+This is my first repo!
